@@ -22,7 +22,7 @@ For each subject:
 <b>BND_ROI.nii.gz</b>: background region of interest (in template space)
 
 ## Code
-<b>coreg_NMw_to_template.sh</b>: example code using NiftyReg software (https://github.com/KCL-BMEIS/niftyreg), for aligning the neuromelanin-sensitive image and (optional) manual segmentation of the substantia nigra with template space
+<b>coreg_NMw_to_template.sh</b>: example code using NiftyReg software (https://github.com/KCL-BMEIS/niftyreg) for aligning the neuromelanin-sensitive image and (optional) manual segmentation of the substantia nigra with template space
 
 <b>SN_probability_map_calculation.m</b>: example MATLAB code for calculating a parametric map with the probability of segmenting the substantia nigra in a group of subjects (in template space)
 
