@@ -2,7 +2,7 @@
 Collection of example code and files used for analysing neuromelanin-sensitive images acquired using magnetic resonance imaging (MRI)
 
 ## Publications
-Biondetti, E., Gaurav, R., Yahia-Cherif, L., Mangone, G., Pyatigorskaya, N., Valabrègue, R., Ewenczyk, C., Hutchison, M., François, C., Corvol, J.C., Vidailhet, M., Lehéricy, S., 2020. Spatiotemporal changes in substantia nigra neuromelanin content in Parkinson’s disease. Brain 143, 2757–2770. https://doi.org/10.1093/brain/awaa216
+Biondetti, E., Gaurav, R., Yahia-Cherif, L., Mangone, G., Pyatigorskaya, N., Valabrègue, R., Ewenczyk, C., Hutchison, M., François, C., Arnulf, I., Corvol, J.C., Vidailhet, M., Lehéricy, S., 2020. Spatiotemporal changes in substantia nigra neuromelanin content in Parkinson’s disease. Brain 143, 2757–2770. https://doi.org/10.1093/brain/awaa216
 
 Biondetti, E., Santin, M.D., Valabrègue, R., Mangone, G., Gaurav, R., Pyatigorskaya, N., Hutchison, M., Yahia-Cherif, L., Villain, N., Habert, M.-O., Arnulf, I., Leu-Semenescu, S., Dodet, P., Vila, M., Corvol, J.-C., Vidailhet, M., Lehéricy, S., 2021. The spatiotemporal changes in dopamine, neuromelanin and iron characterizing Parkinson’s disease. Brain 144, 3114–3125. https://doi.org/10.1093/brain/awab191
 
