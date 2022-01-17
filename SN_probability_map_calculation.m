@@ -1,6 +1,6 @@
 % Script for calculating the SN probability map
 % @AUTHOR: Emma Biondetti
-% @Email: emma.biondetti@unich.it; emma.biondetti@gmail.com
+% @EMAIL: emma.biondetti@unich.it; emma.biondetti@gmail.com
 % @DATE: 17/01/2021
 % @DEPENDENCIES: NifTI_20140122 Toolbox
 % (https://uk.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
