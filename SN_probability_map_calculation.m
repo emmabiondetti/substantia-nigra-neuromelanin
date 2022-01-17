@@ -22,7 +22,7 @@ subject_id = {'subject_01'; 'subject_02'; 'subject_03'};
 all_SN_ROIs = zeros([matrix_size(1) matrix_size(2) matrix_size(3) length(subject_id)]);
 for i = 1:length(subject_id)
     SN_dir = dir([main_path subject_id{i} ...
-      '/Coregistrations_NMw_to_SymmTemplate/rSymmTemplate_rT1_SN_ROI.nii']);
+      '/Coregistrations_NMw_to_SymmTemplate/rSymmTemplate_rT1_SN_ROI.nii.gz']);
     SN_nii = load_nii([SN_dir.folder '/' SN_dir.name]);
     all_SN_ROIs(:,:,:,i) = double(SN_nii.img);
 end
